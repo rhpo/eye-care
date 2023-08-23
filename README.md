@@ -1,4 +1,4 @@
-# 👁️ EyeCare &nbsp;&horbar;&nbsp; C#
+# 👁️ EyeCare &nbsp;&horbar;&nbsp; Auto-Brightness software for PC's
 An EyeCare program designed to enhance your visual comfort by adjusting screen brightness according to the content displayed.
 
 ## Introduction
